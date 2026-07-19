@@ -36,7 +36,8 @@ UART-Verilog/
 │
 ├── waveforms/
 │   └── loopback_test.png
-│
+│   └── rx_tb_waveforms.png
+│   └── tx_tb_waveforms.png
 └── README.md
 ```
 
