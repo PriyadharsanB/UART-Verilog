@@ -108,9 +108,4 @@ This confirms correct end-to-end UART communication.
 
 ---
 
-## Author
 
-**Priyadharsan B**
-
-- GitHub: https://github.com/PriyadharsanB
-- LinkedIn: https://www.linkedin.com/in/bpriyadharsan
